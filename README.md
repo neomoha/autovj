@@ -20,10 +20,10 @@ Run: 'pip install -r requirements'
 Example
 ------
 
-An example python code (_example.py_) is included, which illustrates the whole process of getting a video for each one of the most representative instruments of a song's music genre
+An example python code ([example.py](https://github.com/neomoha/autovj/blob/master/example.py)) is included, which illustrates the whole process of getting a video for each one of the most representative instruments of a song's music genre
 
 You can also use the scripts independently. For example:
 
-* Run 'python get_top_genre.py ARTIST_NAME SONG_TITLE' to get the genre of a song
-* Run 'python get_genre_instruments.py GENRE' to get the most representative instruments of the given genre
-* Run 'python get_tag_video.py TAG' to get the youtube video of a tag (a tag can be a genre, an intrument, etc.)
+* Run '_python get_top_genre.py ARTIST_NAME SONG_TITLE_' to get the genre of a song
+* Run '_python get_genre_instruments.py GENRE_' to get the most representative instruments of the given genre
+* Run '_python get_tag_video.py TAG_' to get the youtube video of a tag (a tag can be a genre, an intrument, etc.)
