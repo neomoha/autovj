@@ -3,7 +3,8 @@ from get_genre_instruments import get_genre_instruments
 from get_tag_video import get_tag_video
 
 '''
-Given a song, this example will illustrate how to get a video for each one of the most representative instruments of the song's music genre
+Given a song, this example will illustrate how to get a video for each one of
+the most representative instruments of the song's music genre
 '''
 
 artist = "Mos Def"
